@@ -41,7 +41,7 @@ The dashboard effectively delivers answers to critical operational performance m
 ---
 
 ## 🚀 How to Review This Project
-1. Click on the **`Interactive_Dashboard.xlsm`** file in the list above. *(Note: Ensure your file extension is .xlsm or .xlsx as uploaded).*
+1. Click on the **`Interactive_Dashboard.xlsm`** file in the list above.
 2. Click the **Download** button to save the workbook to your local machine.
 3. Open the file in Microsoft Excel and **MUST click "Enable Editing" and "Enable Macros/Content"** at the top bar.
 4. Interact with the **Dashboard 1, Dashboard 2** buttons and slicers to experience the automated live chart transformations.
